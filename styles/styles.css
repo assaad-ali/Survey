@@ -49,3 +49,38 @@ fieldset{
     height: 4rem; */
     padding-left: 20rem;
 }
+.check-boxes{
+    padding-left: 2rem;
+}
+.satisfaction > div{
+    display: inline-block;
+    width: 40%;
+}
+.expectation > div{
+    display: inline-block;
+    width: 40%;
+}
+.recommendation > div{
+    display: inline-block;
+    width: 40%;
+}
+.aspect > div{
+    display: inline-block;
+    width: 40%;
+}
+.comments{
+    width: 80%;
+    height: 8rem;
+    text-align: start;
+}
+.submit{
+    padding-left: 30rem;
+}
+.submit > input{
+    width: 40%;
+    height: 3rem;
+    background-color: rgb(131, 123, 123);
+    font-weight: 700;
+    font-size: 24px;
+    color: azure;
+}
